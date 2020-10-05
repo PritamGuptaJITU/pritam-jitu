@@ -1,0 +1,8 @@
+body{
+    background:skyblue;
+    
+}
+li a:active,a:visited,a:link{
+    color:#000000;
+    text-decoration:none;
+}
